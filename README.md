@@ -1,1 +1,1 @@
-*Virtualization using vagrant*
+*Virtualization of my system using vagrant; the alx project*
