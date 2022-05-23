@@ -1,1 +1,1 @@
-Using the uname command
+Using uname
